@@ -1,3 +1,6 @@
+### NOTE: This is a temporary fork until [this PR](https://github.com/pschinis/rails_same_site_cookie/pull/35) gets merged into the master branch.
+
+
 # RailsSameSiteCookie
 
 This gem sets the SameSite=None directive on all cookies coming from your Rails app that are missing the SameSite directive. This behavior can also be limited to only requests coming from a specific user agent.
